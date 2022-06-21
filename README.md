@@ -14,9 +14,9 @@ What exactly do I need from the projects?
 
 What projects have I used?
 
-## The result[^1]
+## The result
 
-Interim results or a detailed follow-up.
+Interim results or a detailed follow-up.[^1]
 
 <p align="right">made with ❤️ for everyone by <a href="https://www.octolab.org/">OctoLab</a></p>
 
